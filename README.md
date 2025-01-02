@@ -1,2 +1,2 @@
 # bookbot
-adding to readme to test commit
+BookBot is my first project!
